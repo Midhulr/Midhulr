@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Midhul R 👋
 
-<!--
-**Midhulr/Midhulr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Bachelor of Computer Applications student interested in software development, web technologies, and building practical projects.
+
+### 🚀 About Me
+
+- 🎓 BCA Student
+- 💻 Interested in Web Development
+- 🌱 Learning and improving my programming skills
+- 🔨 Working on academic and personal projects
+- 🎯 Focused on becoming a skilled software developer
+
+### 🛠️ Technologies & Skills
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Git & GitHub
+
+### 📂 Featured Projects
+
+**CareerTrack – College Placement Portal**
+
+A web-based placement management system developed using PHP and MySQL.
+
+Features include:
+- Student registration and login
+- Job opportunities
+- Job applications
+- Resume management
+- Placement readiness assessment
+- Skill gap analysis
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/Midhulr
+
+---
+
+*Always learning. Always building. Always improving.* 🚀
